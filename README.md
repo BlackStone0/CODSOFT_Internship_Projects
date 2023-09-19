@@ -1,4 +1,5 @@
-Codsoft Task Repository
+#Codsoft Task Repository
+
 Welcome to the Codsoft Task Repository! In this repository, you'll find a collection of tasks assigned to me by Codsoft. These tasks include creating a portfolio, a landing page, and a calculator. These projects have been implemented using HTML, CSS, and JavaScript.
 
 Projects
