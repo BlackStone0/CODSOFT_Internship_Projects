@@ -8,5 +8,6 @@ Description: The portfolio project is designed to showcase my skills, experience
 Technologies Used: HTML, CSS
 
 
-**Contributing**
+**Contributing**:
+
 This repository is primarily for showcasing the tasks assigned by Codsoft, and contributions are not expected. However, if you have suggestions or find issues with the projects, feel free to open an issue or provide feedback.
