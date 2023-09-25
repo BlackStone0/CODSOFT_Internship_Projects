@@ -5,7 +5,11 @@ Welcome to the Codsoft Task Repository! In this repository, you'll find a collec
 **Projects**
 1. Portfolio
 Description: The portfolio project is designed to showcase my skills, experiences, and projects. It provides an overview of my work and serves as a personal website.
-Technologies Used: HTML, CSS
+Technologies Used: HTML and CSS
+
+2. Landing Page
+Description: The landing page project is a single-page website designed to capture the attention of visitors and provide them with key information about a travel service or event.
+Technologies Used: HTML and CSS
 
 
 **Contributing**:
