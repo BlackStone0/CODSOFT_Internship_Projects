@@ -5,11 +5,15 @@ Welcome to the Codsoft Task Repository! In this repository, you'll find a collec
 **Projects**
 1. Portfolio
 Description: The portfolio project is designed to showcase my skills, experiences, and projects. It provides an overview of my work and serves as a personal website.
-Technologies Used: HTML and CSS
+Technologies Used: HTML and CSS.
 
 2. Landing Page
 Description: The landing page project is a single-page website designed to capture the attention of visitors and provide them with key information about a travel service or event.
-Technologies Used: HTML and CSS
+Technologies Used: HTML and CSS.
+
+3. Calculator
+Description: The calculator project is a web-based calculator application that allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+Technologies Used: HTML, CSS, JavaScript.
 
 
 **Contributing**:
